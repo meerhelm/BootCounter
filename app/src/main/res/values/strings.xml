@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Boot Counter</string>
+    <string name="no_boots_detected">No boots detected</string>
+    <string name="total_dismissals_allowed">Total dismissals allowed</string>
+    <string name="interval_between_dismissals_minutes">Interval between dismissals (minutes)</string>
+    <string name="save">Save</string>
+</resources>
